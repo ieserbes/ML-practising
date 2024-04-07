@@ -1,0 +1,9 @@
+Download mysteryDataSplit.csv’
+
+Tasks
+
+    Load the data
+    Generate a split set with random class proportions ready for ML
+    Visualize class assignment in each part of your split
+    Repeat the above split and visualisation but with a proportional not random split (class distribution within the test set should mirror the train set)
+    Briefly explain what proportion (e.g 70/30) and distribution approach you would prefer to use and why?

@@ -1,0 +1,14 @@
+
+Download mysteryDataClustering.csv' (select to download). 
+
+
+Tasks
+
+    Load the data.
+    Select 2 non-redundant features.
+    Visualize the data distribution in 2d
+    Pass the data through at least two clustering algorithms (eg https://scikit-learn.org/stable/modules/clustering.html) and generate at least three fitness statistics across several values of K
+Visualize the results for both clustering runs across K values
+Visualize cluster assignment and/or centroids
+How many clusters would you predict?
+Briefly explain your reasoning, why do you predict n clusters?

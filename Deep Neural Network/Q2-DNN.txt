@@ -1,0 +1,14 @@
+Download xTrain.csv', 'xTest.csv Download xTest.csv', 'yTrain.csv Download yTrain.csv', 'yTest.csv
+
+
+Tasks
+
+    Load the data sets ['xTrain.csv','xTest.csv','yTrain.csv','yTest.csv'] Then onehot encode the labels (y), recommend:
+        from sklearn.preprocessing import OneHotEncoder
+        Also standardise the data (x)
+    Finish the design for this running neural net
+    Train your net with the data, output a classified set (fix the code again)
+    Achieve a final accuracy of above 80% and loss under 1.1 on the training set
+    Visualize net accuracy across epochs
+    Vary the learning rate (perhaps using a loop), find the best rate for both training and test sets, visualize them across epochs each time
+    Briefly, what do you notice? Is there a best learning rate?
